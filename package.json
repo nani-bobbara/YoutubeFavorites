@@ -1,0 +1,11 @@
+{
+  "name": "youtube-favorites-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test-ui": "node test_ui.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
